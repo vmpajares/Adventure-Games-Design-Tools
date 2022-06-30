@@ -26,6 +26,6 @@ Articles about puzzle theory sorted by Date.
 8. [Puzzle Design in Adventure Games](http://uu.diva-portal.org/smash/get/diva2%3A629026/FULLTEXT01.pdf). Degree Project in Game Desgin. PDF. By Rabi Afram. 2013
 9. [Point and Click Puzzle Design](https://www.youtube.com/watch?v=EDt6XXsRXag). Video by Game Maker's Toolkit. 20015
 10. [Aproximación al rompecabezas](http://indiefence.blogspot.com.es/2012/06/aproximacion-al-rompecabezas.html). Approach to the puzzle. 32 pages e-book in spanish. 2016 revision. Biggest guide about puzzles in the net.
-11. []().
-12. []().
-13. []().
+11. [The Craft of Adventure](https://archive.org/details/TheCraftOfAdventure). PDF. Graham Nelson's paper on the creation of Interactive Fiction, second edition. Added to archive.org at 2010
+12. [How to Design Brillo Point and Click Adventure Game Puzzles](https://www.gamedeveloper.com/design/how-to-design-brillo-point-and-click-adventure-game-puzzles). By Dan Marshall.  2014
+13. [About Dialog Puzzles](https://blog.thimbleweedpark.com/dialog_puzzles).
