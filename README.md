@@ -28,4 +28,13 @@ Articles about puzzle theory sorted by Date.
 10. [Aproximación al rompecabezas](http://indiefence.blogspot.com.es/2012/06/aproximacion-al-rompecabezas.html). Approach to the puzzle. 32 pages e-book in spanish. 2016 revision. Biggest guide about puzzles in the net.
 11. [The Craft of Adventure](https://archive.org/details/TheCraftOfAdventure). PDF. Graham Nelson's paper on the creation of Interactive Fiction, second edition. Added to archive.org at 2010
 12. [How to Design Brillo Point and Click Adventure Game Puzzles](https://www.gamedeveloper.com/design/how-to-design-brillo-point-and-click-adventure-game-puzzles). By Dan Marshall.  2014
-13. [About Dialog Puzzles](https://blog.thimbleweedpark.com/dialog_puzzles).
+13. [About Dialog Puzzles](https://blog.thimbleweedpark.com/dialog_puzzles.html). By Ron Gilber. 2015
+
+## Design Documents
+Official design documents from commercial games. Sorted by Game Date. 
+1. [Labyrinth](https://web.archive.org/web/20160721004757/http://wilmunder.com/Arics_World/Games_files/1986%2001%2015%20Labyrinth.compressed.pdf). By David Fox. 1986. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+2. [Maniac Mansion. Early Design](https://grumpygamer.com/maniac_mansion_design_doc). By Ron Gilbert and Gary Winnick. 1985.
+3. [Leisure Suit Larry 5](http://allowe.com/gamedesign/Larry5%20Design.pdf). By Al Lowe. 1991.
+4. [Day of the Tentacle](https://web.archive.org/web/20160412081408/http://wilmunder.com/Arics_World/Games_files/1992%2002%2024%20Maniac%20Mansion%20II%20-%20DOTT.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+5. [Sam & Max: Hit the Road](https://web.archive.org/web/20160803151214/http://www.wilmunder.com:80/Arics_World/Games_files/1992%2011%2011%20Sam%20&%20Max.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+6. [Freddy Pharkas, Frontier Pharmacist]
