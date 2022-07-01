@@ -33,7 +33,7 @@ Articles about puzzle theory sorted by Date.
 ## Design Documents
 Official design documents from commercial games. Sorted by Game Date. 
 1. [Labyrinth](https://web.archive.org/web/20160721004757/http://wilmunder.com/Arics_World/Games_files/1986%2001%2015%20Labyrinth.compressed.pdf). By David Fox. 1986. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
-2. [Maniac Mansion. Early Design](https://grumpygamer.com/maniac_mansion_design_doc). By Ron Gilbert and Gary Winnick from Gilbert's website. 1985.
+2. [Maniac Mansion. Early Design](https://grumpygamer.com/maniac_mansion_design_doc). By Ron Gilbert and Gary Winnick from Gilbert's website. 1986.
 3. [Leisure Suit Larry 5](http://allowe.com/gamedesign/Larry5%20Design.pdf). By Al Lowe from his website. 1991.
 4. [Day of the Tentacle](https://web.archive.org/web/20160412081408/http://wilmunder.com/Arics_World/Games_files/1992%2002%2024%20Maniac%20Mansion%20II%20-%20DOTT.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 5. [Sam & Max: Hit the Road](https://web.archive.org/web/20160803151214/http://www.wilmunder.com:80/Arics_World/Games_files/1992%2011%2011%20Sam%20&%20Max.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
@@ -41,7 +41,7 @@ Official design documents from commercial games. Sorted by Game Date.
 7. [Gabriel Knight, Sins of the Fathers](https://web.archive.org/web/20150406172109/http://pinkertonroad.com/wp-content/uploads/GK1-GDD-BOOK1A.pdf). By Jane Jensen. 1993, updated at 2012. Backup from archive.org
 8. [Indiana Jones & the Iron Phoenix](https://web.archive.org/web/20161221192257/http://wilmunder.com/Arics_World/Games_files/Iron%20Phoenix%20Design%20Doc.compressed.pdf). 1993. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 9. [Leisure Suit Larry 6: Shape Up or Slip Out!](http://allowe.com/gamedesign/Larry6%20Design.pdf). By Al Lowe from his website. 1993.
-10. [Torin's Passage](Torin's Passage). By Al Lowe from his website. 1995.
+10. [Torin's Passage](http://allowe.com/gamedesign/Torin%20Design.pdf). By Al Lowe from his website. 1995.
 11. [The Dig, part 1](https://web.archive.org/web/20160721004819/http://wilmunder.com/Arics_World/Games_files/1990%2012%2006%20The%20Dig.compressed.pdf). 1995. Early Design Document 1990. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 12. [The Dig, part 2](https://web.archive.org/web/20160721004820/http://www.wilmunder.com/Arics_World/Games_files/1991%2001%2005%20The%20Dig%20Kickoff.compressed.pdf). 1995. More advanced Design Document. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 13. [The Curse of Monkey Island](https://web.archive.org/web/20160721004915/http://www.wilmunder.com/Arics_World/Games_files/1995%2008%2029%20Curse%20of%20Monkey%20Island.compressed.pdf). By Larry Ahern & Jonathan Ackley. 1995. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
