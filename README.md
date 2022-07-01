@@ -48,7 +48,28 @@ Official design documents from commercial games. Sorted by Game Date.
 14. [Gabriel Knight 2, The Beast Within](https://web.archive.org/web/20120907040449/http://pinkertonroad.com/wp-content/uploads/THE-BEAST-WITHIN.pdf). By Jane Jensen. 1995, updated at 1998. Backup from archive.org
 15. [Leisure Suit Larry 7: Love For Sail!](http://allowe.com/gamedesign/Larry7%20Design.pdf). By Al Lowe from his website. 1996.
 16. [Grim Fandango](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf). Puzzle Design Document. 1998. Posted by Tim Schaffer. Backup from Gameshelf.
-17. [Gabriel Knight 3, ](). 1999. Originally at pinkertonroad.com. Lost in the web.
+17. Gabriel Knight 3. 1999. Originally at pinkertonroad.com. Lost in the web.
 18. [Resonance](https://docs.google.com/document/d/1HNKVo0ZHAa7YSZUFZbJoTcHKqY5MikYEpIqL4am3U1I/edit). Early Design
 19. [Quiero Morir](http://www.akkadestudios.com/GDD_QI.pdf) By Manel Fernández. 2007. Design Document in Spanish from the game "I want to Die".
 20. [Lienzo en Blancho](http://andromenas.miguelrfervenza.com/download/lienzo-en-blanco/?wpdmdl=1723&masterkey=5966a94f583b8). By Manel Fernández. 2013.  Design Document in Spanish from the game "The White Canvas".Backup from indiefence.
+
+## Puzzle Dependency Charts
+### Theory
+Articles about Dependency Charts. Notice that different authors use the name Dependency Charts/Diagrams/Graphs and some people call them flowcharts. Sorted by Articles date
+ 
+1. [Puzzle Dependency Charts](http://grumpygamer.com/puzzle_dependency_charts). The Original Tool by his creator.
+2. [The Arcane Art of Puzzle Dependency Diagrams](https://www.gdcvault.com/play/1017978/The-Arcane-Art-of-Puzzle). GDC Video. The Puzzle Design Diagram was invented by Ron Gilbert at Lucasfilm Games to complete the design of Maniac Mansion. This talk describes the PDD and how to use it, with examples both from classic graphic adventures and modern action/adventure titles. 
+3. [Puzzle Dependency Graph Primer](Puzzle Dependency Graph Primer). By Joshua Weinberg. From a talk at GDC 2016.
+
+### Examples
+Examples from commercial games. Notice that different authors use the name Dependency Charts/Diagrams/Graphs and some people call them flowcharts. Sorted by Articles/Games date.
+
+1. [The Secret of Monkey Island](https://web.archive.org/web/20140102221647/http://img16.imageshack.us/img16/5950/mi2flowchart.jpg). 1990. From archive.org. Originally at lucasforums.
+2. [Monkey Island 2 with Analysis](https://www.gamedeveloper.com/design/designing-puzzles-for-adventure-games---analyzing-monkey-island-2-puzzle-dependencies-and-balancing). 1991. Marcus writes about puzzle design for adventure games and, to do so, analyzes Monkey Island 2 puzzles.
+3. [Monkey Island 2, Lechuk's Revenge](https://imgur.com/xTdkVDJ). 1991.
+4. [Day of the Tentacle](http://thewebsiteisdown.com/twidblog/day-of-the-tentacle-dependency-graph/).1992. An analysis of the puzzles and narrative structure of The Day of the Tentacle using a Puzzle Dependency Graph as a guide.
+5. [Grim Fandango](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf). 1998. Almost all the Puzzle Design Document are charts.
+6. [Dead Synchronicity](http://www.christophersacchi.com/unpoint-unclick-dead-synchronicity/). Analysis and Puzzle Dependency Chart for Dead Synchronicity by Fictiorama Studios. A raw and dark story set in a post-apocalyptic future.
+7. [Broken Age](http://www.christophersacchi.com/unpoint-unclick-broken-age/). Analysis and Puzzle Dependency Chart for Broken Age by Double Fine. Tim Schafer's crowdfunded return to point and click adventures!
+8. [Zak McKracken: Between Time and Space](http://www.christophersacchi.com/unpoint-unclick-zak-mckracken-between-time-and-space/). Analysis and Puzzle Dependency Chart for Zak McKracken: Between Time and Space, huge fan-made sequel to the original Point and Click Adventure by LucasFilm.
+9. [Technobabylon](http://www.christophersacchi.com/unpoint-unclick-technobabylon/). Analysis and Puzzle Dependency Chart for Technobabylon by Technocrat Games/Wadjet Eye Games. Chasing a mind thief in a nicely crafted sci-fi and cyberpunk world.
