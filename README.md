@@ -33,8 +33,20 @@ Articles about puzzle theory sorted by Date.
 ## Design Documents
 Official design documents from commercial games. Sorted by Game Date. 
 1. [Labyrinth](https://web.archive.org/web/20160721004757/http://wilmunder.com/Arics_World/Games_files/1986%2001%2015%20Labyrinth.compressed.pdf). By David Fox. 1986. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
-2. [Maniac Mansion. Early Design](https://grumpygamer.com/maniac_mansion_design_doc). By Ron Gilbert and Gary Winnick. 1985.
-3. [Leisure Suit Larry 5](http://allowe.com/gamedesign/Larry5%20Design.pdf). By Al Lowe. 1991.
+2. [Maniac Mansion. Early Design](https://grumpygamer.com/maniac_mansion_design_doc). By Ron Gilbert and Gary Winnick from Gilbert's website. 1985.
+3. [Leisure Suit Larry 5](http://allowe.com/gamedesign/Larry5%20Design.pdf). By Al Lowe from his website. 1991.
 4. [Day of the Tentacle](https://web.archive.org/web/20160412081408/http://wilmunder.com/Arics_World/Games_files/1992%2002%2024%20Maniac%20Mansion%20II%20-%20DOTT.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 5. [Sam & Max: Hit the Road](https://web.archive.org/web/20160803151214/http://www.wilmunder.com:80/Arics_World/Games_files/1992%2011%2011%20Sam%20&%20Max.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
-6. [Freddy Pharkas, Frontier Pharmacist]
+6. [Freddy Pharkas, Frontier Pharmacist](http://allowe.com/gamedesign/Freddy%20Design.pdf). By Al Lowe from his website. 1993.
+7. [Gabriel Knight, Sins of the Fathers](https://web.archive.org/web/20150406172109/http://pinkertonroad.com/wp-content/uploads/GK1-GDD-BOOK1A.pdf). By Jane Jensen, updated at 2012. Backup from archive.org
+8. [Indiana Jones & the Iron Phoenix](https://web.archive.org/web/20161221192257/http://wilmunder.com/Arics_World/Games_files/Iron%20Phoenix%20Design%20Doc.compressed.pdf). 1993. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+9. [Leisure Suit Larry 6: Shape Up or Slip Out!](http://allowe.com/gamedesign/Larry6%20Design.pdf). By Al Lowe from his website. 1993.
+10. [Torin's Passage](Torin's Passage). By Al Lowe from his website. 1995.
+11. []().
+12. []().
+13. []().
+14. []().
+15. []().
+16. []().
+17. []().
+18. []().
