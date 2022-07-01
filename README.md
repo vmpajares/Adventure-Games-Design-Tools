@@ -59,7 +59,7 @@ Articles about Dependency Charts. Notice that different authors use the name Dep
  
 1. [Puzzle Dependency Charts](http://grumpygamer.com/puzzle_dependency_charts). The Original Tool by his creator.
 2. [The Arcane Art of Puzzle Dependency Diagrams](https://www.gdcvault.com/play/1017978/The-Arcane-Art-of-Puzzle). GDC Video. The Puzzle Design Diagram was invented by Ron Gilbert at Lucasfilm Games to complete the design of Maniac Mansion. This talk describes the PDD and how to use it, with examples both from classic graphic adventures and modern action/adventure titles. 
-3. [Puzzle Dependency Graph Primer](Puzzle Dependency Graph Primer). By Joshua Weinberg. From a talk at GDC 2016.
+3. [Puzzle Dependency Graph Primer]([Puzzle Dependency Graph Primer](http://thewebsiteisdown.com/twidblog/puzzle-dependency-graph-primer)). By Joshua Weinberg. From a talk at GDC 2016.
 
 ### Examples
 Examples from commercial games. Notice that different authors use the name Dependency Charts/Diagrams/Graphs and some people call them flowcharts. Sorted by Articles/Games date.
