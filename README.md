@@ -38,15 +38,17 @@ Official design documents from commercial games. Sorted by Game Date.
 4. [Day of the Tentacle](https://web.archive.org/web/20160412081408/http://wilmunder.com/Arics_World/Games_files/1992%2002%2024%20Maniac%20Mansion%20II%20-%20DOTT.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 5. [Sam & Max: Hit the Road](https://web.archive.org/web/20160803151214/http://www.wilmunder.com:80/Arics_World/Games_files/1992%2011%2011%20Sam%20&%20Max.compressed.pdf). 1992. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 6. [Freddy Pharkas, Frontier Pharmacist](http://allowe.com/gamedesign/Freddy%20Design.pdf). By Al Lowe from his website. 1993.
-7. [Gabriel Knight, Sins of the Fathers](https://web.archive.org/web/20150406172109/http://pinkertonroad.com/wp-content/uploads/GK1-GDD-BOOK1A.pdf). By Jane Jensen, updated at 2012. Backup from archive.org
+7. [Gabriel Knight, Sins of the Fathers](https://web.archive.org/web/20150406172109/http://pinkertonroad.com/wp-content/uploads/GK1-GDD-BOOK1A.pdf). By Jane Jensen. 1993, updated at 2012. Backup from archive.org
 8. [Indiana Jones & the Iron Phoenix](https://web.archive.org/web/20161221192257/http://wilmunder.com/Arics_World/Games_files/Iron%20Phoenix%20Design%20Doc.compressed.pdf). 1993. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
 9. [Leisure Suit Larry 6: Shape Up or Slip Out!](http://allowe.com/gamedesign/Larry6%20Design.pdf). By Al Lowe from his website. 1993.
 10. [Torin's Passage](Torin's Passage). By Al Lowe from his website. 1995.
-11. []().
-12. []().
-13. []().
-14. []().
-15. []().
-16. []().
-17. []().
-18. []().
+11. [The Dig, part 1](https://web.archive.org/web/20160721004819/http://wilmunder.com/Arics_World/Games_files/1990%2012%2006%20The%20Dig.compressed.pdf). 1995. Early Design Document 1990. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+12. [The Dig, part 2](https://web.archive.org/web/20160721004820/http://www.wilmunder.com/Arics_World/Games_files/1991%2001%2005%20The%20Dig%20Kickoff.compressed.pdf). 1995. More advanced Design Document. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+13. [The Curse of Monkey Island](https://web.archive.org/web/20160721004915/http://www.wilmunder.com/Arics_World/Games_files/1995%2008%2029%20Curse%20of%20Monkey%20Island.compressed.pdf). By Larry Ahern & Jonathan Ackley. 1995. From Aric Wilmunder dead website: http://wilmunder.com/Arics_World/Games.html . Backup from archive.org
+14. [Gabriel Knight 2, The Beast Within](https://web.archive.org/web/20120907040449/http://pinkertonroad.com/wp-content/uploads/THE-BEAST-WITHIN.pdf). By Jane Jensen. 1995, updated at 1998. Backup from archive.org
+15. [Leisure Suit Larry 7: Love For Sail!](http://allowe.com/gamedesign/Larry7%20Design.pdf). By Al Lowe from his website. 1996.
+16. [Grim Fandango](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf). Puzzle Design Document. 1998. Posted by Tim Schaffer. Backup from Gameshelf.
+17. [Gabriel Knight 3, ](). 1999. Originally at pinkertonroad.com. Lost in the web.
+18. [Resonance](https://docs.google.com/document/d/1HNKVo0ZHAa7YSZUFZbJoTcHKqY5MikYEpIqL4am3U1I/edit). Early Design
+19. [Quiero Morir](http://www.akkadestudios.com/GDD_QI.pdf) By Manel Fernández. 2007. Design Document in Spanish from the game "I want to Die".
+20. [Lienzo en Blancho](http://andromenas.miguelrfervenza.com/download/lienzo-en-blanco/?wpdmdl=1723&masterkey=5966a94f583b8). By Manel Fernández. 2013.  Design Document in Spanish from the game "The White Canvas".Backup from indiefence.
